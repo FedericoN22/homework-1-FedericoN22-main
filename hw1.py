@@ -1,5 +1,5 @@
 ################################################################################################
-# Nombre de archivo: hw1.py (No cambiar el nombre de este archivo)
+# Nombre de archivo: hw1.py (No cambiar el nombre de este archivo).
 # El repositorio donde esta tu HW1 es: github.com/unlu-edu-ar/homework-1-TuNombreDeUsuarioGithub
 #
 # Completa con tu nombre, apellido y DNI
